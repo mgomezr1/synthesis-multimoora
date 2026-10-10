@@ -1,0 +1,299 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [7 0 R 9 0 R 11 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /ExtGState /ca 0.075 /CA 0.075 >>
+endobj
+6 0 obj
+<< /Length 6712 >>
+stream
+q /GS1 gs 0.047 0.227 0.231 rg BT /F2 58 Tf 0.6114 0.7913 -0.7913 0.6114 145.40 204.52 Tm (USO ACADÉMICO) Tj ET Q
+q /GS1 gs 0.047 0.227 0.231 rg BT /F2 15 Tf 0.6114 0.7913 -0.7913 0.6114 201.43 205.07 Tm (SÝNTHESIS MULTIMOORA  MARIO SERGIO GÓMEZ RUEDA) Tj ET Q
+0.047 0.227 0.231 rg 0.00 654.00 612.00 138.00 re f
+1.000 0.820 0.400 rg 54.00 753.00 5.00 5.00 re f
+1.000 0.561 0.694 rg 61.00 753.00 5.00 5.00 re f
+BT /F2 9 Tf 1.000 0.820 0.400 rg 74.00 752.50 Td (Sýnthesis MULTIMOORA versión 1.0) Tj ET
+BT /F2 26 Tf 1.000 1.000 1.000 rg 54.00 716.00 Td (Informe ejecutivo) Tj ET
+BT /F1 12 Tf 0.804 0.902 0.886 rg 54.00 694.00 Td (Método MULTIMOORA: tres ordenamientos y una síntesis) Tj ET
+BT /F1 8.5 Tf 0.804 0.902 0.886 rg 402.08 674.00 Td (Fecha del cálculo: 10 de octubre de 2026) Tj ET
+BT /F2 13 Tf 0.047 0.227 0.231 rg 54.00 603.00 Td (1. Objetivo y recomendación) Tj ET
+0.718 0.475 0.122 rg 54.00 593.80 14.00 2.20 re f
+0.761 0.255 0.420 rg 68.00 593.80 14.00 2.20 re f
+BT /F2 11 Tf 0.043 0.169 0.173 rg 54.00 573.00 Td ([Datos de prueba] Seleccionar el proyecto de inversión más conveniente) Tj ET
+0.984 0.957 0.886 rg 54.00 482.05 504.00 78.00 re f
+0.718 0.475 0.122 rg 54.00 482.05 4.00 78.00 re f
+BT /F2 8.5 Tf 0.718 0.475 0.122 rg 70.00 540.05 Td (Alternativa recomendada por la síntesis de dominancia) Tj ET
+BT /F2 18 Tf 0.047 0.227 0.231 rg 70.00 516.05 Td (Proyecto Logístico) Tj ET
+BT /F2 24 Tf 0.718 0.475 0.122 rg 473.96 518.05 Td (1 de 3) Tj ET
+BT /F1 8.5 Tf 0.247 0.396 0.400 rg 441.85 502.05 Td (métodos la ubican primera) Tj ET
+0.718 0.475 0.122 rg 56.00 463.55 3.50 3.50 re f
+BT /F1 9.5 Tf 0.043 0.169 0.173 rg 68.00 462.55 Td (Posiciones de Proyecto Logístico: sistema de razones 2, punto de referencia 2, forma multiplicativa 1.) Tj ET
+0.718 0.475 0.122 rg 56.00 446.78 3.50 3.50 re f
+BT /F1 9.5 Tf 0.043 0.169 0.173 rg 68.00 445.78 Td (La segunda alternativa es Proyecto Digital, con posiciones 1, 4, 2 en los tres métodos.) Tj ET
+0.718 0.475 0.122 rg 56.00 430.00 3.50 3.50 re f
+BT /F1 9.5 Tf 0.043 0.169 0.173 rg 68.00 429.00 Td (Los tres métodos no producen el mismo orden; la sección 5 muestra dónde discrepan.) Tj ET
+0.718 0.475 0.122 rg 56.00 413.23 3.50 3.50 re f
+BT /F1 9.5 Tf 0.043 0.169 0.173 rg 68.00 412.23 Td (El conteo de Borda confirma el primer lugar.) Tj ET
+0.718 0.475 0.122 rg 56.00 396.45 3.50 3.50 re f
+BT /F1 9.5 Tf 0.043 0.169 0.173 rg 68.00 395.45 Td (El criterio con mayor peso es VPN \(35,00 %\). Pesos: digitados por el usuario.) Tj ET
+BT /F1 8.5 Tf 0.247 0.396 0.400 rg 54.00 375.68 Td (Origen de los datos: Datos de prueba generados por la aplicación, escenario «Prueba 2: selección de proyecto de inversión \(4 × 4\)»;) Tj ET
+BT /F1 8.5 Tf 0.247 0.396 0.400 rg 54.00 363.35 Td (son ficticios. Criterios: 4. Alternativas: 4.) Tj ET
+BT /F2 8.5 Tf 0.788 0.463 0.102 rg 54.00 345.03 Td (Atención: el informe se generó con datos de prueba ficticios. Sirve para verificar el funcionamiento del aplicativo y no) Tj ET
+BT /F2 8.5 Tf 0.788 0.463 0.102 rg 54.00 332.70 Td (representa una decisión real.) Tj ET
+BT /F2 13 Tf 0.047 0.227 0.231 rg 54.00 299.88 Td (2. Clasificación final) Tj ET
+0.718 0.475 0.122 rg 54.00 290.68 14.00 2.20 re f
+0.761 0.255 0.420 rg 68.00 290.68 14.00 2.20 re f
+0.047 0.227 0.231 rg 54.00 247.66 504.00 33.22 re f
+BT /F2 8 Tf 1.000 1.000 1.000 rg 66.06 267.88 Td (Posición) Tj ET
+BT /F2 8 Tf 1.000 1.000 1.000 rg 82.95 256.27 Td (final) Tj ET
+BT /F2 8 Tf 1.000 1.000 1.000 rg 109.40 267.88 Td (Alternativa) Tj ET
+BT /F2 8 Tf 1.000 1.000 1.000 rg 268.10 267.88 Td (Razones) Tj ET
+BT /F2 8 Tf 1.000 1.000 1.000 rg 315.54 267.88 Td (Referencia) Tj ET
+BT /F2 8 Tf 1.000 1.000 1.000 rg 371.28 267.88 Td (Multiplicativa) Tj ET
+BT /F2 8 Tf 1.000 1.000 1.000 rg 439.17 267.88 Td (Borda) Tj ET
+BT /F2 8 Tf 1.000 1.000 1.000 rg 472.28 267.88 Td (Ubicación) Tj ET
+BT /F2 8.6 Tf 0.043 0.169 0.173 rg 94.62 235.06 Td (1) Tj ET
+BT /F2 8.6 Tf 0.043 0.169 0.173 rg 109.40 235.06 Td (Proyecto Logístico) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 296.22 235.06 Td (2) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 351.66 235.06 Td (2) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 417.18 235.06 Td (1) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 457.50 235.06 Td (1) Tj ET
+0.882 0.925 0.918 rg 472.28 234.85 80.72 6.00 re f
+0.718 0.475 0.122 rg 472.28 234.85 80.72 6.00 re f
+0.941 0.965 0.961 rg 54.00 208.44 504.00 19.61 re f
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 94.62 215.45 Td (2) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 109.40 215.45 Td (Proyecto Digital) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 296.22 215.45 Td (1) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 351.66 215.45 Td (4) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 417.18 215.45 Td (2) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 457.50 215.45 Td (2) Tj ET
+0.882 0.925 0.918 rg 472.28 215.24 80.72 6.00 re f
+0.184 0.435 0.722 rg 472.28 215.24 60.54 6.00 re f
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 94.62 195.84 Td (3) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 109.40 195.84 Td (Proyecto Solar) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 296.22 195.84 Td (3) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 351.66 195.84 Td (1) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 417.18 195.84 Td (3) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 457.50 195.84 Td (2) Tj ET
+0.882 0.925 0.918 rg 472.28 195.63 80.72 6.00 re f
+0.184 0.435 0.722 rg 472.28 195.63 40.36 6.00 re f
+0.941 0.965 0.961 rg 54.00 169.22 504.00 19.61 re f
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 94.62 176.23 Td (4) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 109.40 176.23 Td (Proyecto Inmobiliario) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 296.22 176.23 Td (4) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 351.66 176.23 Td (3) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 417.18 176.23 Td (4) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 457.50 176.23 Td (4) Tj ET
+0.882 0.925 0.918 rg 472.28 176.02 80.72 6.00 re f
+0.184 0.435 0.722 rg 472.28 176.02 20.18 6.00 re f
+0.827 0.890 0.882 RG 0.8 w 54.00 169.22 m 558.00 169.22 l S
+BT /F1 8.2 Tf 0.247 0.396 0.400 rg 54.00 151.02 Td (Las columnas Razones, Referencia y Multiplicativa muestran la posición en cada método. Borda es la posición según la suma de esas) Tj ET
+BT /F1 8.2 Tf 0.247 0.396 0.400 rg 54.00 139.13 Td (tres. La barra representa la ubicación final: más larga es mejor.) Tj ET
+0.827 0.890 0.882 RG 0.7 w 54.00 48.00 m 558.00 48.00 l S
+BT /F2 7.2 Tf 0.247 0.396 0.400 rg 54.00 35.00 Td (Sýnthesis MULTIMOORA versión 1.0 | Desarrollado por Mario Sergio Gómez Rueda | Uso académico | mgomezr1@gmail.com) Tj ET
+BT /F1 6.8 Tf 0.478 0.608 0.604 rg 54.00 24.00 Td (Cualquier uso distinto del académico se regirá por el derecho de la propiedad intelectual.) Tj ET
+BT /F1 7.4 Tf 0.247 0.396 0.400 rg 512.33 24.00 Td (Página 1 de 3) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> /ExtGState << /GS1 5 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 9560 >>
+stream
+q /GS1 gs 0.047 0.227 0.231 rg BT /F2 58 Tf 0.6114 0.7913 -0.7913 0.6114 145.40 204.52 Tm (USO ACADÉMICO) Tj ET Q
+q /GS1 gs 0.047 0.227 0.231 rg BT /F2 15 Tf 0.6114 0.7913 -0.7913 0.6114 201.43 205.07 Tm (SÝNTHESIS MULTIMOORA  MARIO SERGIO GÓMEZ RUEDA) Tj ET Q
+BT /F2 13 Tf 0.047 0.227 0.231 rg 54.00 713.00 Td (3. Criterios, sentido y pesos) Tj ET
+0.718 0.475 0.122 rg 54.00 703.80 14.00 2.20 re f
+0.761 0.255 0.420 rg 68.00 703.80 14.00 2.20 re f
+0.047 0.227 0.231 rg 54.00 672.39 504.00 21.61 re f
+BT /F2 8 Tf 1.000 1.000 1.000 rg 59.00 681.00 Td (Criterio) Tj ET
+BT /F2 8 Tf 1.000 1.000 1.000 rg 240.44 681.00 Td (Sentido) Tj ET
+BT /F2 8 Tf 1.000 1.000 1.000 rg 352.44 681.00 Td (Peso) Tj ET
+BT /F2 8 Tf 1.000 1.000 1.000 rg 402.10 681.00 Td (Peso en %) Tj ET
+BT /F2 8 Tf 1.000 1.000 1.000 rg 452.12 681.00 Td (Importancia relativa) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 59.00 659.79 Td (VPN \(millones COP\)) Tj ET
+BT /F2 8.6 Tf 0.718 0.475 0.122 rg 240.44 659.79 Td (Maximizar) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 345.26 659.79 Td (0,3500) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 410.57 659.79 Td (35,00 %) Tj ET
+0.882 0.925 0.918 rg 452.12 659.59 100.88 6.00 re f
+0.718 0.475 0.122 rg 452.12 659.59 100.88 6.00 re f
+0.941 0.965 0.961 rg 54.00 633.17 504.00 19.61 re f
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 59.00 640.18 Td (TIR \(%\)) Tj ET
+BT /F2 8.6 Tf 0.718 0.475 0.122 rg 240.44 640.18 Td (Maximizar) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 345.26 640.18 Td (0,2500) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 410.57 640.18 Td (25,00 %) Tj ET
+0.882 0.925 0.918 rg 452.12 639.98 100.88 6.00 re f
+0.718 0.475 0.122 rg 452.12 639.98 72.06 6.00 re f
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 59.00 620.57 Td (Plazo de recuperación \(años\)) Tj ET
+BT /F2 8.6 Tf 0.761 0.255 0.420 rg 240.44 620.57 Td (Minimizar) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 345.26 620.57 Td (0,2000) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 410.57 620.57 Td (20,00 %) Tj ET
+0.882 0.925 0.918 rg 452.12 620.37 100.88 6.00 re f
+0.761 0.255 0.420 rg 452.12 620.37 57.65 6.00 re f
+0.941 0.965 0.961 rg 54.00 593.95 504.00 19.61 re f
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 59.00 600.96 Td (Riesgo \(escala de 1 a 10\)) Tj ET
+BT /F2 8.6 Tf 0.761 0.255 0.420 rg 240.44 600.96 Td (Minimizar) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 345.26 600.96 Td (0,2000) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 410.57 600.96 Td (20,00 %) Tj ET
+0.882 0.925 0.918 rg 452.12 600.75 100.88 6.00 re f
+0.761 0.255 0.420 rg 452.12 600.75 57.65 6.00 re f
+0.827 0.890 0.882 RG 0.8 w 54.00 593.95 m 558.00 593.95 l S
+BT /F2 13 Tf 0.047 0.227 0.231 rg 54.00 560.95 Td (4. Resultados de los tres métodos) Tj ET
+0.718 0.475 0.122 rg 54.00 551.75 14.00 2.20 re f
+0.761 0.255 0.420 rg 68.00 551.75 14.00 2.20 re f
+BT /F1 8.8 Tf 0.247 0.396 0.400 rg 54.00 533.15 Td (Sistema de razones: mayor y es mejor. Punto de referencia: menor z es mejor. Forma multiplicativa: mayor U es mejor.) Tj ET
+0.047 0.227 0.231 rg 54.00 499.58 504.00 21.61 re f
+BT /F2 8 Tf 1.000 1.000 1.000 rg 59.00 508.19 Td (Alternativa) Tj ET
+BT /F2 8 Tf 1.000 1.000 1.000 rg 218.45 508.19 Td (y \(razones\)) Tj ET
+BT /F2 8 Tf 1.000 1.000 1.000 rg 284.10 508.19 Td (Pos.) Tj ET
+BT /F2 8 Tf 1.000 1.000 1.000 rg 326.81 508.19 Td (z \(referencia\)) Tj ET
+BT /F2 8 Tf 1.000 1.000 1.000 rg 400.02 508.19 Td (Pos.) Tj ET
+BT /F2 8 Tf 1.000 1.000 1.000 rg 448.22 508.19 Td (U \(multiplicativa\)) Tj ET
+BT /F2 8 Tf 1.000 1.000 1.000 rg 536.10 508.19 Td (Pos.) Tj ET
+BT /F2 8.6 Tf 0.043 0.169 0.173 rg 59.00 486.98 Td (Proyecto Logístico) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 234.38 486.98 Td (0,1221) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 296.22 486.98 Td (2) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 350.30 486.98 Td (0,0820) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 412.14 486.98 Td (2) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 486.38 486.98 Td (0,9387) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 548.22 486.98 Td (1) Tj ET
+0.941 0.965 0.961 rg 54.00 460.36 504.00 19.61 re f
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 59.00 467.37 Td (Proyecto Digital) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 234.38 467.37 Td (0,1291) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 296.22 467.37 Td (1) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 350.30 467.37 Td (0,1129) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 412.14 467.37 Td (4) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 486.38 467.37 Td (0,9200) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 548.22 467.37 Td (2) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 59.00 447.76 Td (Proyecto Solar) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 234.38 447.76 Td (0,1209) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 296.22 447.76 Td (3) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 350.30 447.76 Td (0,0753) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 412.14 447.76 Td (1) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 486.38 447.76 Td (0,9077) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 548.22 447.76 Td (3) Tj ET
+0.941 0.965 0.961 rg 54.00 421.14 504.00 19.61 re f
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 59.00 428.15 Td (Proyecto Inmobiliario) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 234.38 428.15 Td (0,0438) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 296.22 428.15 Td (4) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 350.30 428.15 Td (0,1003) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 412.14 428.15 Td (3) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 486.38 428.15 Td (0,8053) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 548.22 428.15 Td (4) Tj ET
+0.827 0.890 0.882 RG 0.8 w 54.00 421.14 m 558.00 421.14 l S
+BT /F2 13 Tf 0.047 0.227 0.231 rg 54.00 388.14 Td (5. Calidad y robustez del análisis) Tj ET
+0.718 0.475 0.122 rg 54.00 378.94 14.00 2.20 re f
+0.761 0.255 0.420 rg 68.00 378.94 14.00 2.20 re f
+0.047 0.227 0.231 rg 54.00 347.53 504.00 21.61 re f
+BT /F2 8 Tf 1.000 1.000 1.000 rg 59.00 356.14 Td (Indicador) Tj ET
+BT /F2 8 Tf 1.000 1.000 1.000 rg 361.63 356.14 Td (Valor) Tj ET
+BT /F2 8 Tf 1.000 1.000 1.000 rg 391.64 356.14 Td (Lectura) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 59.00 334.93 Td (Métodos que ubican primera a la ganadora) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 357.73 334.93 Td (1 de 3) Tj ET
+BT /F2 8.6 Tf 0.788 0.463 0.102 rg 391.64 334.93 Td (Requiere más análisis) Tj ET
+0.941 0.965 0.961 rg 54.00 308.31 504.00 19.61 re f
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 59.00 315.32 Td (Los tres métodos producen el mismo orden) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 370.65 315.32 Td (No) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 391.64 315.32 Td (Hay discrepancias entre métodos) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 59.00 295.71 Td (Borda confirma el primer lugar) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 373.51 295.71 Td (Sí) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 391.64 295.71 Td (1 posición distinta frente a la dominancia) Tj ET
+0.941 0.965 0.961 rg 54.00 269.09 504.00 19.61 re f
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 59.00 276.10 Td (Pares con razonamiento circular) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 376.86 276.10 Td (0) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 391.64 276.10 Td (Ninguno) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 59.00 256.49 Td (Correlación de posiciones: razones y referencia) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 357.26 256.49 Td (-0,400) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 391.64 256.49 Td (Ordenamientos opuestos) Tj ET
+0.941 0.965 0.961 rg 54.00 229.87 504.00 19.61 re f
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 59.00 236.88 Td (Correlación de posiciones: razones y multiplicativa) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 360.12 236.88 Td (0,800) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 391.64 236.88 Td (Acuerdo alto) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 59.00 217.27 Td (Correlación de posiciones: referencia y multiplicativa) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 360.12 217.27 Td (0,000) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 391.64 217.27 Td (Acuerdo bajo) Tj ET
+0.827 0.890 0.882 RG 0.8 w 54.00 210.26 m 558.00 210.26 l S
+BT /F2 13 Tf 0.047 0.227 0.231 rg 54.00 177.26 Td (6. Nota metodológica) Tj ET
+0.718 0.475 0.122 rg 54.00 168.06 14.00 2.20 re f
+0.761 0.255 0.420 rg 68.00 168.06 14.00 2.20 re f
+BT /F1 8.8 Tf 0.043 0.169 0.173 rg 54.00 149.46 Td (MULTIMOORA \(Brauers y Zavadskas, 2010\) normaliza la matriz de decisión dividiendo cada valor por la raíz de la suma de) Tj ET
+BT /F1 8.8 Tf 0.043 0.169 0.173 rg 54.00 136.70 Td (cuadrados de su columna y aplica tres métodos. El sistema de razones suma los valores normalizados y ponderados de los) Tj ET
+BT /F1 8.8 Tf 0.043 0.169 0.173 rg 54.00 123.94 Td (criterios que se maximizan y resta los de los que se minimizan. El punto de referencia calcula, para cada alternativa, la mayor) Tj ET
+BT /F1 8.8 Tf 0.043 0.169 0.173 rg 54.00 111.18 Td (desviación ponderada frente al mejor valor de cada criterio. La forma multiplicativa completa multiplica los criterios que se) Tj ET
+BT /F1 8.8 Tf 0.043 0.169 0.173 rg 54.00 98.42 Td (maximizan y divide por los que se minimizan, con el peso como exponente.) Tj ET
+BT /F1 8.8 Tf 0.043 0.169 0.173 rg 54.00 79.66 Td (Los tres ordenamientos se reúnen con la teoría de dominancia, implementada aquí como una comparación por pares con regla) Tj ET
+0.827 0.890 0.882 RG 0.7 w 54.00 48.00 m 558.00 48.00 l S
+BT /F2 7.2 Tf 0.247 0.396 0.400 rg 54.00 35.00 Td (Sýnthesis MULTIMOORA versión 1.0 | Desarrollado por Mario Sergio Gómez Rueda | Uso académico | mgomezr1@gmail.com) Tj ET
+BT /F1 6.8 Tf 0.478 0.608 0.604 rg 54.00 24.00 Td (Cualquier uso distinto del académico se regirá por el derecho de la propiedad intelectual.) Tj ET
+BT /F1 7.4 Tf 0.247 0.396 0.400 rg 512.33 24.00 Td (Página 2 de 3) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> /ExtGState << /GS1 5 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 3394 >>
+stream
+q /GS1 gs 0.047 0.227 0.231 rg BT /F2 58 Tf 0.6114 0.7913 -0.7913 0.6114 145.40 204.52 Tm (USO ACADÉMICO) Tj ET Q
+q /GS1 gs 0.047 0.227 0.231 rg BT /F2 15 Tf 0.6114 0.7913 -0.7913 0.6114 201.43 205.07 Tm (SÝNTHESIS MULTIMOORA  MARIO SERGIO GÓMEZ RUEDA) Tj ET Q
+BT /F1 8.8 Tf 0.043 0.169 0.173 rg 54.00 727.20 Td (de mayoría: una alternativa domina a otra si queda mejor ubicada en más métodos, y el orden final sale de los pares ganados) Tj ET
+BT /F1 8.8 Tf 0.043 0.169 0.173 rg 54.00 714.44 Td (menos los perdidos. El conteo de Borda, que suma las tres posiciones, sirve de contraste.) Tj ET
+BT /F1 8.8 Tf 0.043 0.169 0.173 rg 54.00 695.68 Td (El método exige valores mayores que cero y supone escalas de razón. Los pesos se aplican como coeficientes de significancia,) Tj ET
+BT /F1 8.8 Tf 0.043 0.169 0.173 rg 54.00 682.92 Td (extensión posterior al método original. Los resultados deben leerse como apoyo a la decisión, no como sustituto del criterio) Tj ET
+BT /F1 8.8 Tf 0.043 0.169 0.173 rg 54.00 670.16 Td (profesional.) Tj ET
+BT /F1 7.8 Tf 0.247 0.396 0.400 rg 54.00 652.40 Td (Referencias: Brauers, W. K. M., y Zavadskas, E. K. \(2006\). The MOORA method and its application to privatization in a transition economy.) Tj ET
+BT /F1 7.8 Tf 0.247 0.396 0.400 rg 54.00 641.09 Td (Control and Cybernetics, 35\(2\), 445–469. Brauers, W. K. M., y Zavadskas, E. K. \(2010\). Project management by MULTIMOORA as an instrument) Tj ET
+BT /F1 7.8 Tf 0.247 0.396 0.400 rg 54.00 629.78 Td (for transition economies. Technological and Economic Development of Economy, 16\(1\), 5–24. Brauers, W. K. M., y Zavadskas, E. K. \(2011\).) Tj ET
+BT /F1 7.8 Tf 0.247 0.396 0.400 rg 54.00 618.47 Td (MULTIMOORA optimization used to decide on a bank loan to buy property. Technological and Economic Development of Economy, 17\(1\),) Tj ET
+BT /F1 7.8 Tf 0.247 0.396 0.400 rg 54.00 607.16 Td (174–188. Brauers, W. K. M., y Zavadskas, E. K. \(2012\). Robustness of MULTIMOORA: A method for multi-objective optimization. Informatica,) Tj ET
+BT /F1 7.8 Tf 0.247 0.396 0.400 rg 54.00 595.85 Td (23\(1\), 1–25. Hafezalkotob, A., Hafezalkotob, A., Liao, H., y Herrera, F. \(2019\). An overview of MULTIMOORA for multi-criteria decision-making.) Tj ET
+BT /F1 7.8 Tf 0.247 0.396 0.400 rg 54.00 584.54 Td (Information Fusion, 51, 145–177. Shannon, C. E. \(1948\). A mathematical theory of communication. Bell System Technical Journal, 27\(3\),) Tj ET
+BT /F1 7.8 Tf 0.247 0.396 0.400 rg 54.00 573.23 Td (379–423.) Tj ET
+0.941 0.965 0.961 rg 54.00 502.72 504.00 55.00 re f
+BT /F2 8.6 Tf 0.047 0.227 0.231 rg 68.00 540.72 Td (Autoría y uso) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 68.00 526.72 Td (Este aplicativo fue desarrollado por Mario Sergio Gómez Rueda. Su uso es de carácter académico y cualquier otro uso se) Tj ET
+BT /F1 8.6 Tf 0.043 0.169 0.173 rg 68.00 514.22 Td (regirá por el derecho de la propiedad intelectual. Sugerencias o dudas: mgomezr1@gmail.com) Tj ET
+0.827 0.890 0.882 RG 0.7 w 54.00 48.00 m 558.00 48.00 l S
+BT /F2 7.2 Tf 0.247 0.396 0.400 rg 54.00 35.00 Td (Sýnthesis MULTIMOORA versión 1.0 | Desarrollado por Mario Sergio Gómez Rueda | Uso académico | mgomezr1@gmail.com) Tj ET
+BT /F1 6.8 Tf 0.478 0.608 0.604 rg 54.00 24.00 Td (Cualquier uso distinto del académico se regirá por el derecho de la propiedad intelectual.) Tj ET
+BT /F1 7.4 Tf 0.247 0.396 0.400 rg 512.33 24.00 Td (Página 3 de 3) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> /ExtGState << /GS1 5 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Title (Informe ejecutivo MULTIMOORA: [Datos de prueba] Seleccionar el proyecto de inversión más conveniente) /Author (Mario Sergio Gómez Rueda) /Subject (Método MULTIMOORA) /Creator (Sýnthesis MULTIMOORA 1.0) /Producer (Sýnthesis MULTIMOORA) /CreationDate (D:20261010080544) >>
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000134 00000 n 
+0000000231 00000 n 
+0000000333 00000 n 
+0000000391 00000 n 
+0000007155 00000 n 
+0000007319 00000 n 
+0000016931 00000 n 
+0000017095 00000 n 
+0000020542 00000 n 
+0000020708 00000 n 
+trailer
+<< /Size 13 /Root 1 0 R /Info 12 0 R >>
+startxref
+21006
+%%EOF
